@@ -1,4 +1,2 @@
 language: java
-jdk:
-  - oraclejdk12
 install: gradle assemble
