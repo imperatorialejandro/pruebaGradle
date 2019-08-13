@@ -1,2 +1,3 @@
 language: java
-install: gradle assemble
+install: true
+os: osx
